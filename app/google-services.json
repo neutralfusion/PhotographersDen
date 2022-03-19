@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "650135031525",
+    "project_id": "photographer-s-den",
+    "storage_bucket": "photographer-s-den.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650135031525:android:96a1c054e47c550f3a0e0c",
+        "android_client_info": {
+          "package_name": "com.app.photographersden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650135031525-o9jp5v7mc78rj14ia2j7ho72iruf2dku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.photographersden",
+            "certificate_hash": "d1f27824983447c3184c007cc9d43b3281e9ac05"
+          }
+        },
+        {
+          "client_id": "650135031525-mvfl60db7b2310u4r6bkddvtgkb02cg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZLRTZ5PcrwzzeZmemNMWGU_r_gc5kAp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650135031525-mvfl60db7b2310u4r6bkddvtgkb02cg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
